@@ -3,6 +3,7 @@ This is a repo of my HackerRank Solutions
 
 # Table of Contents
 * [Java If-Else](#Java-If-Else)
+* [Java Stdin and Stdout II](#Java-Stdin-and-Stdout-II)
 
 --------------------
 # Java If-Else
@@ -15,4 +16,7 @@ Given an integer between 1 - 100 perform the following conditional actions:
 
 ## Solution
 [code](javaIfElse.java)
+
+---------------------
+# Java Stdin and Stdout II
 
